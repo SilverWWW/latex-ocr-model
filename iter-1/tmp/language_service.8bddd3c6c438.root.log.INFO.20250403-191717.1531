@@ -1,0 +1,44 @@
+Log file created at: 2025/04/03 19:17:17
+Running on machine: 8bddd3c6c438
+Binary: Built on Dec 31 1969 16:00:00 -0800 (0)
+Binary: Built at redacted@redacted:.
+Binary: Built with gc go1.25-20250331-RC00 cl/742428850 +c6a1dc4729 X:fieldtrack,boringcrypto for linux/amd64
+Previous log: <none>
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0403 19:17:17.540862       1 log_spam.go:43] Process id 1531
+I0403 19:17:17.541345       1 log_spam.go:47] Current working directory /datalab/web
+I0403 19:17:17.541355       1 log_spam.go:49] Current timezone is UTC (currently UTC +00:00)
+I0403 19:17:17.541427       1 log_spam.go:50] Built on Dec 31 1969 16:00:00 -0800 (0)
+ at redacted@redacted:.
+ as //research/colab/datalab/language_service:language_service
+ with gc go1.25-20250331-RC00 cl/742428850 +c6a1dc4729 X:fieldtrack,boringcrypto for linux/amd64
+ from changelist 0 in a unknown client based on redacted
+Build tool: unknown
+Build target: //research/colab/datalab/language_service:language_service
+Build id: unknown
+Built with PGO profile: unknown
+I0403 19:17:17.541432       1 log_spam.go:51] Command line arguments:
+I0403 19:17:17.541435       1 log_spam.go:53]  argv[0]: '/usr/colab/bin/language_service'
+I0403 19:17:17.541438       1 log_spam.go:53]  argv[1]: '--lsp_search_dirs=/datalab/web/pyright/typeshed-fallback/stdlib,/usr/local/lib/python3.10/dist-packages'
+I0403 19:17:17.541441       1 log_spam.go:53]  argv[2]: '--language_services_request_root_url=http://172.28.0.1:8013/'
+I0403 19:17:17.541443       1 log_spam.go:53]  argv[3]: '--language_services_request_timeout=30s'
+I0403 19:17:17.541445       1 log_spam.go:53]  argv[4]: '--'
+I0403 19:17:17.541447       1 log_spam.go:53]  argv[5]: 'node'
+I0403 19:17:17.541452       1 log_spam.go:53]  argv[6]: '/datalab/web/pyright/pyright-langserver.js'
+I0403 19:17:17.541454       1 log_spam.go:53]  argv[7]: '--stdio'
+I0403 19:17:17.541456       1 log_spam.go:53]  argv[8]: '--cancellationReceive=file:57d3392ee0c13e1cfd13bec15b732390763bee29a2'
+I0403 19:19:50.597171      28 ls.go:1241] cancel was requested for: 3, needs to be canceled: false
+I0403 19:20:01.325190      28 ls.go:1241] cancel was requested for: 5, needs to be canceled: false
+I0403 19:20:42.932259      28 ls.go:1241] cancel was requested for: 6, needs to be canceled: false
+I0403 19:20:43.100839      28 ls.go:1241] cancel was requested for: 7, needs to be canceled: false
+I0403 19:21:26.648948      28 ls.go:1241] cancel was requested for: 8, needs to be canceled: false
+I0403 19:25:20.075597      28 ls.go:1241] cancel was requested for: 31, needs to be canceled: false
+I0403 19:25:20.298113      28 ls.go:1241] cancel was requested for: 30, needs to be canceled: false
+I0403 19:25:20.441654      28 ls.go:1241] cancel was requested for: 32, needs to be canceled: false
+I0403 19:25:20.599392      28 ls.go:1241] cancel was requested for: 33, needs to be canceled: false
+I0403 19:25:20.765393      28 ls.go:1241] cancel was requested for: 34, needs to be canceled: false
+I0403 19:25:27.085175      28 ls.go:1241] cancel was requested for: 39, needs to be canceled: false
+I0403 19:25:27.543687      28 ls.go:1241] cancel was requested for: 41, needs to be canceled: false
+I0403 19:25:29.162808      28 ls.go:1241] cancel was requested for: 45, needs to be canceled: false
+I0403 19:26:14.935853      28 ls.go:1241] cancel was requested for: 62, needs to be canceled: false
+I0403 19:26:57.906427      28 ls.go:1241] cancel was requested for: 69, needs to be canceled: false

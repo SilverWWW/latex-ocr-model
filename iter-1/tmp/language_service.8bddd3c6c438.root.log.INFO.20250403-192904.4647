@@ -1,0 +1,7 @@
+Log file created at: 2025/04/03 19:29:04
+Running on machine: 8bddd3c6c438
+Binary: Built on Dec 31 1969 16:00:00 -0800 (0)
+Binary: Built at redacted@redacted:.
+Binary: Built with gc go1.25-20250331-RC00 cl/742428850 +c6a1dc4729 X:fieldtrack,boringcrypto for linux/amd64
+Previous log: <none>
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg

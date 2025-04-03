@@ -1,0 +1,39 @@
+Log file created at: 2025/04/03 19:38:43
+Running on machine: 8bddd3c6c438
+Binary: Built on Dec 31 1969 16:00:00 -0800 (0)
+Binary: Built at redacted@redacted:.
+Binary: Built with gc go1.25-20250331-RC00 cl/742428850 +c6a1dc4729 X:fieldtrack,boringcrypto for linux/amd64
+Previous log: <none>
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0403 19:38:43.176838       1 log_spam.go:43] Process id 7685
+I0403 19:38:43.177156       1 log_spam.go:47] Current working directory /datalab/web
+I0403 19:38:43.177163       1 log_spam.go:49] Current timezone is UTC (currently UTC +00:00)
+I0403 19:38:43.177184       1 log_spam.go:50] Built on Dec 31 1969 16:00:00 -0800 (0)
+ at redacted@redacted:.
+ as //research/colab/datalab/language_service:language_service
+ with gc go1.25-20250331-RC00 cl/742428850 +c6a1dc4729 X:fieldtrack,boringcrypto for linux/amd64
+ from changelist 0 in a unknown client based on redacted
+Build tool: unknown
+Build target: //research/colab/datalab/language_service:language_service
+Build id: unknown
+Built with PGO profile: unknown
+I0403 19:38:43.177188       1 log_spam.go:51] Command line arguments:
+I0403 19:38:43.177190       1 log_spam.go:53]  argv[0]: '/usr/colab/bin/language_service'
+I0403 19:38:43.177193       1 log_spam.go:53]  argv[1]: '--lsp_search_dirs=/datalab/web/pyright/typeshed-fallback/stdlib,/usr/local/lib/python3.10/dist-packages'
+I0403 19:38:43.177194       1 log_spam.go:53]  argv[2]: '--language_services_request_root_url=http://172.28.0.1:8013/'
+I0403 19:38:43.177196       1 log_spam.go:53]  argv[3]: '--language_services_request_timeout=30s'
+I0403 19:38:43.177197       1 log_spam.go:53]  argv[4]: '--'
+I0403 19:38:43.177199       1 log_spam.go:53]  argv[5]: 'node'
+I0403 19:38:43.177200       1 log_spam.go:53]  argv[6]: '/datalab/web/pyright/pyright-langserver.js'
+I0403 19:38:43.177202       1 log_spam.go:53]  argv[7]: '--stdio'
+I0403 19:38:43.177204       1 log_spam.go:53]  argv[8]: '--cancellationReceive=file:bcdb9dc33dca2d8a7745477a00ff492f264ec22e83'
+I0403 20:28:14.886442      52 ls.go:1241] cancel was requested for: 6, needs to be canceled: false
+I0403 20:28:18.938111      52 ls.go:1241] cancel was requested for: 8, needs to be canceled: false
+I0403 20:28:18.968089      52 ls.go:1241] cancel was requested for: 9, needs to be canceled: false
+I0403 20:28:20.361433      52 ls.go:1241] cancel was requested for: 11, needs to be canceled: false
+I0403 20:28:25.168757      52 ls.go:1241] cancel was requested for: 15, needs to be canceled: false
+I0403 20:28:27.343361      52 ls.go:1241] cancel was requested for: 17, needs to be canceled: false
+I0403 20:28:37.801228      52 ls.go:1241] cancel was requested for: 29, needs to be canceled: false
+I0403 20:28:42.121458      52 ls.go:1241] cancel was requested for: 34, needs to be canceled: false
+I0403 20:28:50.753637      52 ls.go:1241] cancel was requested for: 39, needs to be canceled: false
+I0403 20:35:04.023882      52 ls.go:1241] cancel was requested for: 43, needs to be canceled: false

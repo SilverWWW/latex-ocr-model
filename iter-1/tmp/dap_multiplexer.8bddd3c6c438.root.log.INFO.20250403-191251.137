@@ -1,0 +1,22 @@
+Log file created at: 2025/04/03 19:12:51
+Running on machine: 8bddd3c6c438
+Binary: Built on Dec 31 1969 16:00:00 -0800 (0)
+Binary: Built at redacted@redacted:.
+Binary: Built with gc go1.25-20250331-RC00 cl/742428850 +c6a1dc4729 X:fieldtrack,boringcrypto for linux/amd64
+Previous log: <none>
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0403 19:12:51.962273       1 log_spam.go:43] Process id 137
+I0403 19:12:51.962761       1 log_spam.go:47] Current working directory /
+I0403 19:12:51.962768       1 log_spam.go:49] Current timezone is UTC (currently UTC +00:00)
+I0403 19:12:51.962794       1 log_spam.go:50] Built on Dec 31 1969 16:00:00 -0800 (0)
+ at redacted@redacted:.
+ as //research/colab/dap_multiplexer:dap_multiplexer
+ with gc go1.25-20250331-RC00 cl/742428850 +c6a1dc4729 X:fieldtrack,boringcrypto for linux/amd64
+ from changelist 0 in a unknown client based on redacted
+Build tool: unknown
+Build target: //research/colab/dap_multiplexer:dap_multiplexer
+Build id: unknown
+Built with PGO profile: unknown
+I0403 19:12:51.962799       1 log_spam.go:51] Command line arguments:
+I0403 19:12:51.962802       1 log_spam.go:53]  argv[0]: '/usr/local/bin/dap_multiplexer'
+I0403 19:12:51.962804       1 log_spam.go:53]  argv[1]: '--domain_socket_path=/tmp/debugger_1pd6pnruge'
